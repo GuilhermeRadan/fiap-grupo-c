@@ -1,7 +1,7 @@
 # fiap-grupo-c
 
 ## Website MENTAL-AID
-* Maycon 
+* Maycon Santos
 
 # Pagina HOME
 # Pagina SOBRE
